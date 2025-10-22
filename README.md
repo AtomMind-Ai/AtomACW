@@ -1,4 +1,4 @@
-# AI Essay Assistant
+# AI Essay - Acedemic Writing Assistant
 
 A one-page academic writing workspace with **rich text editing**, **inline AI comments**, and **Cerebras-powered suggestions, reviews, and chat**. Supports local `.txt` and `.docx` files, with persistent comments and Quick Fix features.
 
