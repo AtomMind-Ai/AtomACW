@@ -8,7 +8,7 @@ A one-page academic writing workspace with **rich text editing**, **inline AI co
 
 ```
 
-ai-essay-assistant/
+AtomACW/
 ├─ frontend/
 │  ├─ package.json
 │  ├─ vite.config.js
@@ -45,7 +45,7 @@ CEREBRAS_API_KEY=your_real_api_key_here
 
 ### Dependencies
 
-`backend/requirements.txt`
+`requirements.txt`
 
 ```txt
 fastapi
